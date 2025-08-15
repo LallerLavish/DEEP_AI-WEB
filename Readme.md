@@ -5,14 +5,13 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![GSAP](https://img.shields.io/badge/GSAP-Animations-green?logo=greensock)
 ![Locomotive.js](https://img.shields.io/badge/Locomotive.js-Smooth%20Scroll-orange)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_NAME/deploys)
 
 > A **visually engaging** and **smoothly animated** website built using **Locomotive.js** and **GSAP**, featuring **scroll-based animations**, **responsive layouts**, and a **fluid, interactive user experience**.
 
 ---
 
 ## 🌐 Live Demo
-▶ **[View Website on Netlify](https://your-netlify-site.netlify.app/)**
+▶ **[View Website on Netlify](https://lallerfrontend.netlify.app)**
 
 ---
 
