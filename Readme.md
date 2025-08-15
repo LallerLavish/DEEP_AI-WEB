@@ -49,5 +49,5 @@
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/animated-portfolio.git
-cd animated-portfolio
+git clone https://github.com/LallerLavish/DEEP_AI-WEB.git
+cd DEEP_AI-WEB
